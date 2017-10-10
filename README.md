@@ -1,5 +1,6 @@
 # Packala
  Déposer « massivement » ses données dans Nakala (Huma-Num)
+ VIDEO DEMO : https://videotheque.univ-poitiers.fr/video.php?id=j85rqo1qsywnbxzcdrem&link=62bedosjylx6naplwlsg29c9ty5i6d
  
  Qu’est-ce que Nakala ?
 
